@@ -24,7 +24,7 @@ Look at the schematics for more informations.
 <img src="https://raw.githubusercontent.com/hallard/WeMos-shield/master/WeMos-shield-top.png" alt="Top" width="40%" height="40%">&nbsp;
 <img src="https://raw.githubusercontent.com/hallard/WeMos-shield/master/WeMos-shield-bot.png" alt="Bottom" width="40%" height="40%">&nbsp; 
 
-You can order the PCB of this board v1.0 at [OSHPARK][4]
+You can order the PCB of this board v1.0 at [OSHPARK][3]
 
 ### Assembled boards
 
@@ -39,9 +39,5 @@ See news and other projects on my [blog][2]
  
 [1]: http://www.wemos.cc/wiki/doku.php?id=en:d1_mini
 [2]: https://hallard.me
-[3]: https://github.com/thibdct/programmateur-fil-pilote-wifi/tree/master/Logiciel/remora
-[4]: https://oshpark.com/shared_projects/
-[5]: https://www.adafruit.com/product/2471
-[6]: https://www.olimex.com/Products/IoT/MOD-WIFI-ESP8266-DEV/
-[7]: http://digistump.com/products/145
+[3]: https://oshpark.com/shared_projects/rnk2lmmh
 
